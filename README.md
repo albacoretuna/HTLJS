@@ -1,2 +1,2 @@
 # HTLJS
-A Compilation of Books and Links around "How To Learn JS"
+A compilation of ideas, tips, books, links for those who are struggling to learn JavaScript
