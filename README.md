@@ -16,5 +16,11 @@ Here's a list of people or channels you should follow on social media.
 Short videos to watch 
 
 ### Must Have  
+  * Github account
+  * A good editor, read Webstorm 
+  * Codewars account 
+  * Patience 
 
 ### Must Know
+  * that it takes time to master anything. 
+  * reading programming books 
