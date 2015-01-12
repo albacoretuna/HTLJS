@@ -5,7 +5,7 @@ For the time being start reading this study guide:
 
 ### Must Read
 Here's a reading list. 
-[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+  * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 ### Must Follow 
 Here's a list of people you should follow on social media. 
