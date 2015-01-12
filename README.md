@@ -22,6 +22,8 @@ Short videos to watch
   * Patience 
   * A mentor 
   * A meetup.com account. You should follow JavaScript meetups in your local area. 
+  * linux
+  * command line skills
 
 ### Must Know
   * that it takes time to master anything. 
