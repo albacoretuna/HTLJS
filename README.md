@@ -8,7 +8,9 @@ Programmers don't read books. I don't agree with that, so here's a reading list.
   * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 ### Must Follow 
-Here's a list of people you should follow on social media. 
+Here's a list of people or channels you should follow on social media. 
+  * JavaScript Daily 
+  * Getify
 
 ### Must Watch 
 Short videos to watch 
