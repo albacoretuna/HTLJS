@@ -16,11 +16,14 @@ Here's a list of people or channels you should follow on social media.
 Short videos to watch 
 
 ### Must Have  
-  * Github account
+  * A Github.com account
   * A good editor, read Webstorm 
   * Codewars account 
   * Patience 
+  * A mentor 
+  * A meetup.com account. You should follow JavaScript meetups in your local area. 
 
 ### Must Know
   * that it takes time to master anything. 
-  * reading programming books 
+  * reading programming books, without actually running the codes won't help you much
+  * if you don't understand something, it's ok, it happenes to best of us. Just keep at it. 
