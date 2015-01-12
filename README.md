@@ -29,3 +29,4 @@ Short videos to watch
   * that it takes time to master anything. 
   * reading programming books, without actually running the codes won't help you much
   * if you don't understand something, it's ok, it happenes to best of us. Just keep at it. 
+
