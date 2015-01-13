@@ -11,6 +11,7 @@ Programmers don't read books. I don't agree with that, so here's a reading list.
 Here's a list of people or channels you should follow on social media. 
   * [JavaScript Daily](https://twitter.com/JavaScriptDaily) 
   * [getify](https://twitter.com/getify)
+  * [Awsome JavaScript](https://github.com/code-guru/awesome-javascript)
 
 ### Must Watch 
 Short videos to watch 
