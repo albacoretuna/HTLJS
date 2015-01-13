@@ -14,6 +14,7 @@ Here's a list of people or channels you should follow on social media.
 
 ### Must Watch 
 Short videos to watch 
+  * [Angelina Fabbro: JavaScript Masterclass  JSConfUS 2013](https://www.youtube.com/watch?v=v0TFmdO4ZP0)
 
 ### Must Have  
   * A Github.com account
@@ -22,7 +23,7 @@ Short videos to watch
   * Patience 
   * A mentor 
   * A meetup.com account. You should follow JavaScript meetups in your local area. 
-  * linux
+  * A linux machine.
   * command line skills
 
 ### Must Know
